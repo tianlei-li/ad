@@ -33,5 +33,5 @@ int main()
     c.show();
     c.name_change();
     c.show();
-    cout<<a<<":"<<"23\n";
+    cout<<a<<":"<<"工资\n";
 }
